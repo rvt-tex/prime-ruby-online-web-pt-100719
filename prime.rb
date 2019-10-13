@@ -10,3 +10,6 @@ def prime?(num)
     false
   end
 end
+
+
+#note none of the num should return true for none? to return true. If none of the num return true, then they are not divisible by the num and the num is prime num 
